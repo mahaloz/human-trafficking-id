@@ -1,4 +1,4 @@
-# Instagram Crawler [![Build Status](https://travis-ci.org/huaying/instagram-crawler.svg?branch=master)](https://travis-ci.org/huaying/instagram-crawler)
+# Instagram Crawler [Human Trafficking Identification Fork]
 
 Below is what you can do with this program:
 - Get Instagram posts/profile/hashtag data without using Instagram API. `crawler.py`
